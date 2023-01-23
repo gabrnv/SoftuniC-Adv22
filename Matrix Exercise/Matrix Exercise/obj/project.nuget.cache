@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZA32A8wAnut80S66O2arIthpO2afPDsKXt0w3cYWu6JH8/PFn3p7bLZGgFdBMo+LP22OKlrURC63eiNRImgmiw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Matrix Exercise\\Matrix Exercise\\1. Diagonal Difference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

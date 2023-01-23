@@ -1,0 +1,14 @@
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+D:\SoftuniC#Adv22\ExamPrep\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache

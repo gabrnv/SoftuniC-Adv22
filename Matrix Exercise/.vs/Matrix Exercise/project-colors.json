@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b9b9dfc0-13df-40b1-a40f-ceb586b143b3": {
+      "ProjectGuid": "b9b9dfc0-13df-40b1-a40f-ceb586b143b3",
+      "DisplayName": "1. Diagonal Difference",
+      "ColorIndex": 0
+    },
+    "04994909-102c-4b9d-8f70-2c11d4dad07f": {
+      "ProjectGuid": "04994909-102c-4b9d-8f70-2c11d4dad07f",
+      "DisplayName": "2. Squares in Matrix",
+      "ColorIndex": 1
+    },
+    "7def4e98-37ca-41fd-9011-2078e5fe775b": {
+      "ProjectGuid": "7def4e98-37ca-41fd-9011-2078e5fe775b",
+      "DisplayName": "3. Maximal Sum",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

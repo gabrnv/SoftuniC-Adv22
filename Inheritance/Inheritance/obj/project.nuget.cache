@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pko0k6AVu1Dfq0ch6SuO/eKdkLNGmQuArOm9aSLTHSxcWlNC/bYCWBspU/UFe0kpt3Mw7Fi0uhWkTzoyVu9BQg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Inheritance\\Inheritance\\Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

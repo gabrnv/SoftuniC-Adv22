@@ -1,0 +1,14 @@
+D:\SoftuniC#Adv22\Exam\Exam\bin\Debug\netcoreapp3.1\Bakery Shop.exe
+D:\SoftuniC#Adv22\Exam\Exam\bin\Debug\netcoreapp3.1\Bakery Shop.deps.json
+D:\SoftuniC#Adv22\Exam\Exam\bin\Debug\netcoreapp3.1\Bakery Shop.runtimeconfig.json
+D:\SoftuniC#Adv22\Exam\Exam\bin\Debug\netcoreapp3.1\Bakery Shop.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Exam\Exam\bin\Debug\netcoreapp3.1\Bakery Shop.dll
+D:\SoftuniC#Adv22\Exam\Exam\bin\Debug\netcoreapp3.1\Bakery Shop.pdb
+D:\SoftuniC#Adv22\Exam\Exam\obj\Debug\netcoreapp3.1\Bakery Shop.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\Exam\Exam\obj\Debug\netcoreapp3.1\Bakery Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Exam\Exam\obj\Debug\netcoreapp3.1\Bakery Shop.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Exam\Exam\obj\Debug\netcoreapp3.1\Bakery Shop.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Exam\Exam\obj\Debug\netcoreapp3.1\Bakery Shop.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Exam\Exam\obj\Debug\netcoreapp3.1\Bakery Shop.dll
+D:\SoftuniC#Adv22\Exam\Exam\obj\Debug\netcoreapp3.1\Bakery Shop.pdb
+D:\SoftuniC#Adv22\Exam\Exam\obj\Debug\netcoreapp3.1\Bakery Shop.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7e1cR5o158KurSTKGW5MsIRl7N0AYj45CZ5U/f4ldBjLpFVEGrys7wGdv4glNHiZNDCqLQIFlGZqC2hhpA62g==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\ExamPrep\\Pawn Wars\\Pawn Wars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

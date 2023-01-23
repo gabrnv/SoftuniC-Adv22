@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xRlik11+mFrB+A+jgNkktd6Maklie1L3cnSwBibZ3jwmOy2dMQErEQSR2Uy6cgzgIXgvvuv86He9tvjrQ4flzg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\ExamPrep\\SuperMario\\SuperMario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

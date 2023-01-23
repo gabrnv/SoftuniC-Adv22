@@ -1,0 +1,16 @@
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\bin\Debug\net5.0\03. Word Count.exe
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\bin\Debug\net5.0\03. Word Count.deps.json
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\bin\Debug\net5.0\03. Word Count.runtimeconfig.json
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\bin\Debug\net5.0\03. Word Count.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\bin\Debug\net5.0\03. Word Count.dll
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\bin\Debug\net5.0\ref\03. Word Count.dll
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\bin\Debug\net5.0\03. Word Count.pdb
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\obj\Debug\net5.0\03. Word Count.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\obj\Debug\net5.0\03. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\obj\Debug\net5.0\03. Word Count.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\obj\Debug\net5.0\03. Word Count.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\obj\Debug\net5.0\03. Word Count.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\obj\Debug\net5.0\03. Word Count.dll
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\obj\Debug\net5.0\ref\03. Word Count.dll
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\obj\Debug\net5.0\03. Word Count.pdb
+D:\SoftuniC#Adv22\Streams Files And Directories\03. Word Count\obj\Debug\net5.0\03. Word Count.genruntimeconfig.cache

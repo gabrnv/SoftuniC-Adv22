@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EIEPODJhdjnEV65+7vHq2jzuGfqgDQfMumVrBZyvIFaMkt+Phft5yYlPgwQ7N3XcPwtR5XCtsRuUJKf1G06OLA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Streams Files And Directories\\02. Line Numbers\\02. Line Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

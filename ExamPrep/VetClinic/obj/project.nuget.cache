@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DiQ64isISAGWW5FS+twGDOeAQM7MbPHJPBsCryyZ/o7IU4iUUbD1DjJb/XBK5vCkAXu6z2G41MRFJuWxRvLheQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\ExamPrep\\VetClinic\\VetClinic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

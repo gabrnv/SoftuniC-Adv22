@@ -1,0 +1,16 @@
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\bin\Debug\net5.0\SnakeNYT.exe
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\bin\Debug\net5.0\SnakeNYT.deps.json
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\bin\Debug\net5.0\SnakeNYT.runtimeconfig.json
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\bin\Debug\net5.0\SnakeNYT.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\bin\Debug\net5.0\SnakeNYT.dll
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\bin\Debug\net5.0\ref\SnakeNYT.dll
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\bin\Debug\net5.0\SnakeNYT.pdb
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\obj\Debug\net5.0\SnakeNYT.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\obj\Debug\net5.0\SnakeNYT.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\obj\Debug\net5.0\SnakeNYT.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\obj\Debug\net5.0\SnakeNYT.AssemblyInfo.cs
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\obj\Debug\net5.0\SnakeNYT.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\obj\Debug\net5.0\SnakeNYT.dll
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\obj\Debug\net5.0\ref\SnakeNYT.dll
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\obj\Debug\net5.0\SnakeNYT.pdb
+D:\SoftuniC#Adv22\SnakeNYT\SnakeNYT\obj\Debug\net5.0\SnakeNYT.genruntimeconfig.cache

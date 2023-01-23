@@ -1,0 +1,16 @@
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.exe
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.deps.json
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.runtimeconfig.json
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.dll
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\bin\Debug\net5.0\ref\2. Squares in Matrix.dll
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\bin\Debug\net5.0\2. Squares in Matrix.pdb
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.dll
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\obj\Debug\net5.0\ref\2. Squares in Matrix.dll
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.pdb
+D:\SoftuniC#Adv22\Matrix Exercise\2. Squares in Matrix\obj\Debug\net5.0\2. Squares in Matrix.genruntimeconfig.cache

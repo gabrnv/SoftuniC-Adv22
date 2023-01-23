@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbolcH2I7HQa9bKUfEorGfaHOdZ7KgyLcfu0Lh/s35pFFGrKl7qX4VpNuyIQr+cZ46agULQ/yGz81phN6bW39g==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Exam\\BeaverAtWork\\BeaverAtWork.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

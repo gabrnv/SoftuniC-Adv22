@@ -1,0 +1,16 @@
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.exe
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.deps.json
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.runtimeconfig.json
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.dll
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\ref\Implementing Linked List.dll
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\bin\Debug\net5.0\Implementing Linked List.pdb
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.dll
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\ref\Implementing Linked List.dll
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.pdb
+D:\SoftuniC#Adv22\Implementing Linked List\Implementing Linked List\obj\Debug\net5.0\Implementing Linked List.genruntimeconfig.cache

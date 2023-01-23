@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fP7Q1rSXSJtoQHbUXFuTMRUyflaa7GNIe9BV9MVLMOqkekahJz/Nxwa1DwbOy5W1XojrokjXluV2zu1s4yJARA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Streams Exercise\\Even Lines\\Even Lines.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

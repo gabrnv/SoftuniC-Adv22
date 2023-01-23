@@ -1,0 +1,14 @@
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.exe
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.deps.json
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.runtimeconfig.json
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.dll
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\bin\Debug\netcoreapp3.1\ExamPrep.pdb
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.AssemblyInfo.cs
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.dll
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.pdb
+D:\SoftuniC#Adv22\ExamPrep\ExamPrep\obj\Debug\netcoreapp3.1\ExamPrep.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\bin\Debug\netcoreapp3.1\Pawn Wars.exe
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\bin\Debug\netcoreapp3.1\Pawn Wars.deps.json
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\bin\Debug\netcoreapp3.1\Pawn Wars.runtimeconfig.json
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\bin\Debug\netcoreapp3.1\Pawn Wars.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\bin\Debug\netcoreapp3.1\Pawn Wars.dll
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\bin\Debug\netcoreapp3.1\Pawn Wars.pdb
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\obj\Debug\netcoreapp3.1\Pawn Wars.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\obj\Debug\netcoreapp3.1\Pawn Wars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\obj\Debug\netcoreapp3.1\Pawn Wars.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\obj\Debug\netcoreapp3.1\Pawn Wars.AssemblyInfo.cs
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\obj\Debug\netcoreapp3.1\Pawn Wars.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\obj\Debug\netcoreapp3.1\Pawn Wars.dll
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\obj\Debug\netcoreapp3.1\Pawn Wars.pdb
+D:\SoftuniC#Adv22\ExamPrep\Pawn Wars\obj\Debug\netcoreapp3.1\Pawn Wars.genruntimeconfig.cache

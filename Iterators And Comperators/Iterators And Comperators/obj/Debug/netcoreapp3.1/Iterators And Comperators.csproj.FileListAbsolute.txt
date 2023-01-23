@@ -1,0 +1,14 @@
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\bin\Debug\netcoreapp3.1\Iterators And Comperators.exe
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\bin\Debug\netcoreapp3.1\Iterators And Comperators.deps.json
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\bin\Debug\netcoreapp3.1\Iterators And Comperators.runtimeconfig.json
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\bin\Debug\netcoreapp3.1\Iterators And Comperators.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\bin\Debug\netcoreapp3.1\Iterators And Comperators.dll
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\bin\Debug\netcoreapp3.1\Iterators And Comperators.pdb
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\obj\Debug\netcoreapp3.1\Iterators And Comperators.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\obj\Debug\netcoreapp3.1\Iterators And Comperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\obj\Debug\netcoreapp3.1\Iterators And Comperators.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\obj\Debug\netcoreapp3.1\Iterators And Comperators.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\obj\Debug\netcoreapp3.1\Iterators And Comperators.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\obj\Debug\netcoreapp3.1\Iterators And Comperators.dll
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\obj\Debug\netcoreapp3.1\Iterators And Comperators.pdb
+D:\SoftuniC#Adv22\Iterators And Comperators\Iterators And Comperators\obj\Debug\netcoreapp3.1\Iterators And Comperators.genruntimeconfig.cache

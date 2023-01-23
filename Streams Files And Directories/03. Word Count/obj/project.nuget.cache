@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rC/XWEs+d36Ii1ftl5CSEC73rGg9ssT8zrnwIVGtEvJ2sExe9fl8+wQIwZbSTu6AdtKbk3QiJy/cEW7DjSE6rQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Streams Files And Directories\\03. Word Count\\03. Word Count.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "150c9b60-3cf1-47a1-9d9e-1f8b8b632c0c": {
+      "ProjectGuid": "150c9b60-3cf1-47a1-9d9e-1f8b8b632c0c",
+      "DisplayName": "01. Odd Lines",
+      "ColorIndex": 0
+    },
+    "a3fe2b13-2c65-42e4-b67b-1a941bfc8dfd": {
+      "ProjectGuid": "a3fe2b13-2c65-42e4-b67b-1a941bfc8dfd",
+      "DisplayName": "02. Line Numbers",
+      "ColorIndex": 1
+    },
+    "9371ab9c-d2c0-4970-9a99-b9a1d4c8420f": {
+      "ProjectGuid": "9371ab9c-d2c0-4970-9a99-b9a1d4c8420f",
+      "DisplayName": "03. Word Count",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMf7C6s0w9/U8PIrjggsgW6KCLHZSC0NrJKHR3N9WaefOi2fAFTDl2tsH7vTf/AykltZODke1G3d+HU+ogUalg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\TotalyNotAVirus\\TotalyNotAVirus\\TotalyNotAVirus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

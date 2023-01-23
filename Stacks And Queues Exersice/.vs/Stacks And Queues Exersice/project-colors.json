@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a64cc91d-2184-4c3e-927b-95159f903952": {
+      "ProjectGuid": "a64cc91d-2184-4c3e-927b-95159f903952",
+      "DisplayName": "1. Basic Stack Operations",
+      "ColorIndex": 0
+    },
+    "ac2eb755-378d-4866-8622-105be05f524b": {
+      "ProjectGuid": "ac2eb755-378d-4866-8622-105be05f524b",
+      "DisplayName": "02. Basic Queue Operations",
+      "ColorIndex": 1
+    },
+    "c540e6d4-e9ab-407b-80d8-d8a72748c4ef": {
+      "ProjectGuid": "c540e6d4-e9ab-407b-80d8-d8a72748c4ef",
+      "DisplayName": "03. Maximum and Minimum Element",
+      "ColorIndex": 2
+    },
+    "22b38a12-4293-4654-b8d8-3ab371c36597": {
+      "ProjectGuid": "22b38a12-4293-4654-b8d8-3ab371c36597",
+      "DisplayName": "04. Fast Food",
+      "ColorIndex": 3
+    },
+    "7be0d81b-96d9-4eeb-ab37-47a49720256b": {
+      "ProjectGuid": "7be0d81b-96d9-4eeb-ab37-47a49720256b",
+      "DisplayName": "05. Fashion Boutique",
+      "ColorIndex": 4
+    },
+    "9a6bc900-550b-4390-adb7-5d837d0a980a": {
+      "ProjectGuid": "9a6bc900-550b-4390-adb7-5d837d0a980a",
+      "DisplayName": "06. Songs Queue",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

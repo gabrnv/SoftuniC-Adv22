@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "96e798c4-5d4f-4b60-a474-12727ea15148": {
+      "ProjectGuid": "96e798c4-5d4f-4b60-a474-12727ea15148",
+      "DisplayName": "Print Even Numbers",
+      "ColorIndex": 0
+    },
+    "f2a7cafe-0848-4910-8fd5-50498834ce2b": {
+      "ProjectGuid": "f2a7cafe-0848-4910-8fd5-50498834ce2b",
+      "DisplayName": "Sum Numbers",
+      "ColorIndex": 1
+    },
+    "558328ce-ab2d-4cb9-97f4-c2898d939ce5": {
+      "ProjectGuid": "558328ce-ab2d-4cb9-97f4-c2898d939ce5",
+      "DisplayName": "Count Uppercase Words",
+      "ColorIndex": 2
+    },
+    "e0e37b76-31d2-435e-9ecc-5c55fcbd8310": {
+      "ProjectGuid": "e0e37b76-31d2-435e-9ecc-5c55fcbd8310",
+      "DisplayName": "Add VAT",
+      "ColorIndex": 3
+    },
+    "554ca35b-f903-417f-88af-7d2de067446e": {
+      "ProjectGuid": "554ca35b-f903-417f-88af-7d2de067446e",
+      "DisplayName": "Filter By Age",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

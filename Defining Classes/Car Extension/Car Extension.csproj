@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Car_Extension</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Car.cs~RF5016a3c.TMP" />
+  </ItemGroup>
+
+</Project>

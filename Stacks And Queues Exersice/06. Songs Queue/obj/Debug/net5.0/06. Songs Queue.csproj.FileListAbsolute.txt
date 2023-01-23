@@ -1,0 +1,15 @@
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.exe
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.deps.json
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.runtimeconfig.json
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.dll
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\bin\Debug\net5.0\ref\06. Songs Queue.dll
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\bin\Debug\net5.0\06. Songs Queue.pdb
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.dll
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\obj\Debug\net5.0\ref\06. Songs Queue.dll
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.pdb
+D:\SoftuniC#Adv22\Stacks And Queues Exersice\06. Songs Queue\obj\Debug\net5.0\06. Songs Queue.genruntimeconfig.cache

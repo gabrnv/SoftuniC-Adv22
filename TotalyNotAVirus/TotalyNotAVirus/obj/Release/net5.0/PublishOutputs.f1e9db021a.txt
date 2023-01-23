@@ -1,0 +1,5 @@
+D:\TotalyNotAVirus.exe
+D:\TotalyNotAVirus.dll
+D:\TotalyNotAVirus.deps.json
+D:\TotalyNotAVirus.runtimeconfig.json
+D:\TotalyNotAVirus.pdb

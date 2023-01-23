@@ -1,0 +1,14 @@
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\bin\Debug\netcoreapp3.1\Reverse String.exe
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\bin\Debug\netcoreapp3.1\Reverse String.deps.json
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\bin\Debug\netcoreapp3.1\Reverse String.runtimeconfig.json
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\bin\Debug\netcoreapp3.1\Reverse String.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\bin\Debug\netcoreapp3.1\Reverse String.dll
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\bin\Debug\netcoreapp3.1\Reverse String.pdb
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\obj\Debug\netcoreapp3.1\Reverse String.csprojAssemblyReference.cache
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\obj\Debug\netcoreapp3.1\Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\obj\Debug\netcoreapp3.1\Reverse String.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\obj\Debug\netcoreapp3.1\Reverse String.AssemblyInfo.cs
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\obj\Debug\netcoreapp3.1\Reverse String.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\obj\Debug\netcoreapp3.1\Reverse String.dll
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\obj\Debug\netcoreapp3.1\Reverse String.pdb
+D:\SoftuniC#Adv22\StacksAndQueries\StacksAndQueries\obj\Debug\netcoreapp3.1\Reverse String.genruntimeconfig.cache

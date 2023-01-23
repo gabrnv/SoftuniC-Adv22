@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2MMr8Y+LPQQLpPhJfU3aPgo4XRwfznNsfpV6tlx/1k/An2IfJBQB4fHHmkFqD+9FMyCBgd0qc4tRoaRwepOsUQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Functional Programming\\Functional Programming\\Print Even Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QBdcIbkSjMYwk9tXgMbIxny56S9WAH51rMHU1/5wQYM3qQ3d3X/WZ3VQ51gm96pxWPW5y//9BhFJw9wdWC7zJA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Stacks And Queues Exersice\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

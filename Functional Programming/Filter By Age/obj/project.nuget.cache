@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UKJ0xg3maS4iiydW1DJrHfZVe3farOCZfCFECg1zlMkNAXu7z6/bVQ6m0dC4zgDaXFknvZhFAE323X8YEd2GuQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Functional Programming\\Filter By Age\\Filter By Age.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

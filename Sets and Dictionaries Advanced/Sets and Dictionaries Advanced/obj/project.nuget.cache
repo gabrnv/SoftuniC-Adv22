@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xcRjMwyqDi0EtUQmzrm5DSv0177zeUP/uwont2VspR9KXOXh3Qnqmy0WtK8txepm/Lasns79Ye7BoUgccu0cBQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Sets and Dictionaries Advanced\\Sets and Dictionaries Advanced\\01. Count Same Values in Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

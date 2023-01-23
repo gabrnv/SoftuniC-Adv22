@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k/9I8T/TL8+a/M6cvvRMYQj6hkHOrViQF2B+ckbHh5HcapWj3MROGRlPIq05dhjfXkGZXIiqVG53krs4HmuIiQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Defining Classes\\Car Engine And Tires\\Car Engine And Tires.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

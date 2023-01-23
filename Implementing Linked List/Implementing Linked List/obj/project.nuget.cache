@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cMtcU7lmMinsyJGv3NGgLNVV7TEv0ElgBjLzJ3lNBrCsiRP1+dza722RDgb3tLteZ4yhwQBwbZSxA0ukBh4W7w==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Implementing Linked List\\Implementing Linked List\\Implementing Linked List.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

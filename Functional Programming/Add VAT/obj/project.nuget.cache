@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cALMSMdVQHYWd8ekTGqrmb4eaw7wpNUmKO/O/lW0QHr4SFB2RnhnYTquLfPMgiuZtaC1FnL2aozVg0+YujEatg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Functional Programming\\Add VAT\\Add VAT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

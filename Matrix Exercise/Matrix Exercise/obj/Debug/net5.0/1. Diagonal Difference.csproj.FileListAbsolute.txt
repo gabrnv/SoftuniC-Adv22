@@ -1,0 +1,16 @@
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\bin\Debug\net5.0\1. Diagonal Difference.exe
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\bin\Debug\net5.0\1. Diagonal Difference.deps.json
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.json
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\bin\Debug\net5.0\1. Diagonal Difference.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\bin\Debug\net5.0\1. Diagonal Difference.dll
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\bin\Debug\net5.0\ref\1. Diagonal Difference.dll
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\bin\Debug\net5.0\1. Diagonal Difference.pdb
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\obj\Debug\net5.0\1. Diagonal Difference.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\obj\Debug\net5.0\1. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\obj\Debug\net5.0\1. Diagonal Difference.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\obj\Debug\net5.0\1. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\obj\Debug\net5.0\1. Diagonal Difference.dll
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\obj\Debug\net5.0\ref\1. Diagonal Difference.dll
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\obj\Debug\net5.0\1. Diagonal Difference.pdb
+D:\SoftuniC#Adv22\Matrix Exercise\Matrix Exercise\obj\Debug\net5.0\1. Diagonal Difference.genruntimeconfig.cache

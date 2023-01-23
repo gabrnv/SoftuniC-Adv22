@@ -1,0 +1,14 @@
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.exe
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.deps.json
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.runtimeconfig.json
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.dll
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.pdb
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.dll
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.pdb
+D:\SoftuniC#Adv22\Exam\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.genruntimeconfig.cache

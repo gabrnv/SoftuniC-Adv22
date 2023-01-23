@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rxpwfy8z9DU+k0KyOi9A+eonnZ2XtV2D/ie8GhMtBXGwH8iEzYkfuTrip1C/73XuAPhhIOI9AJF3nHO+fcIQ9Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Streams Files And Directories\\Streams Files And Directories\\01. Odd Lines.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

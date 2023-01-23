@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0kU6rb5DR66mwWL3WVUZsA2LjL/mmo1opKkptuO+LGs5wy1/d3nPQb6+Hn2V+oLyX2VkJISaOKorR4BQVoasnQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Functional Programming\\Count Uppercase Words\\Count Uppercase Words.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

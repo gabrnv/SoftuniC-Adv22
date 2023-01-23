@@ -1,0 +1,16 @@
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\bin\Debug\net5.0\CarManufacturer.exe
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\bin\Debug\net5.0\CarManufacturer.deps.json
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\bin\Debug\net5.0\CarManufacturer.runtimeconfig.json
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\bin\Debug\net5.0\CarManufacturer.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\bin\Debug\net5.0\CarManufacturer.dll
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\bin\Debug\net5.0\ref\CarManufacturer.dll
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\bin\Debug\net5.0\CarManufacturer.pdb
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\obj\Debug\net5.0\CarManufacturer.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\obj\Debug\net5.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\obj\Debug\net5.0\CarManufacturer.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\obj\Debug\net5.0\CarManufacturer.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\obj\Debug\net5.0\CarManufacturer.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\obj\Debug\net5.0\CarManufacturer.dll
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\obj\Debug\net5.0\ref\CarManufacturer.dll
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\obj\Debug\net5.0\CarManufacturer.pdb
+D:\SoftuniC#Adv22\Defining Classes\Defining Classes\obj\Debug\net5.0\CarManufacturer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\01. Count Same Values in Array.exe
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\01. Count Same Values in Array.deps.json
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\01. Count Same Values in Array.runtimeconfig.json
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\01. Count Same Values in Array.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\01. Count Same Values in Array.dll
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\ref\01. Count Same Values in Array.dll
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\01. Count Same Values in Array.pdb
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\01. Count Same Values in Array.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\01. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\01. Count Same Values in Array.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\01. Count Same Values in Array.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\01. Count Same Values in Array.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\01. Count Same Values in Array.dll
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\ref\01. Count Same Values in Array.dll
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\01. Count Same Values in Array.pdb
+D:\SoftuniC#Adv22\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\01. Count Same Values in Array.genruntimeconfig.cache

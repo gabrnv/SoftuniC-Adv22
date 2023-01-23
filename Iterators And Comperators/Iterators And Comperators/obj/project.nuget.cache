@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ELXnLCey4HDjVEQrJEkIr1RObSToYCZKGSDYc2kaP5WPS9GYzo84ccTd1Cb5StLn4vc2wIgUwD0sghU1qpKtnQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Iterators And Comperators\\Iterators And Comperators\\Iterators And Comperators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

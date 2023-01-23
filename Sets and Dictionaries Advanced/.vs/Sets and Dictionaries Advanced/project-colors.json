@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2ca96814-9264-4552-abf5-bb9b122961d7": {
+      "ProjectGuid": "2ca96814-9264-4552-abf5-bb9b122961d7",
+      "DisplayName": "01. Count Same Values in Array",
+      "ColorIndex": 0
+    },
+    "527b8694-f8fd-4f05-bc45-68610730e2f3": {
+      "ProjectGuid": "527b8694-f8fd-4f05-bc45-68610730e2f3",
+      "DisplayName": "02. Average Student Grades",
+      "ColorIndex": 1
+    },
+    "73c30cd3-eab8-4a80-b597-628715785d66": {
+      "ProjectGuid": "73c30cd3-eab8-4a80-b597-628715785d66",
+      "DisplayName": "03. Largest 3 Numbers",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3984a458-7560-47f2-83f0-2da1355dbf2a": {
+      "ProjectGuid": "3984a458-7560-47f2-83f0-2da1355dbf2a",
+      "DisplayName": "Implementing Linked List",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

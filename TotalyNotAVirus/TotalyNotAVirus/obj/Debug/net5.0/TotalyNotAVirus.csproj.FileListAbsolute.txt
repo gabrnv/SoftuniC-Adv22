@@ -1,0 +1,16 @@
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\obj\Debug\net5.0\TotalyNotAVirus.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\obj\Debug\net5.0\TotalyNotAVirus.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\obj\Debug\net5.0\TotalyNotAVirus.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\obj\Debug\net5.0\TotalyNotAVirus.AssemblyInfo.cs
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\obj\Debug\net5.0\TotalyNotAVirus.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\bin\Debug\net5.0\TotalyNotAVirus.exe
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\bin\Debug\net5.0\TotalyNotAVirus.deps.json
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\bin\Debug\net5.0\TotalyNotAVirus.runtimeconfig.json
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\bin\Debug\net5.0\TotalyNotAVirus.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\bin\Debug\net5.0\TotalyNotAVirus.dll
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\bin\Debug\net5.0\ref\TotalyNotAVirus.dll
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\bin\Debug\net5.0\TotalyNotAVirus.pdb
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\obj\Debug\net5.0\TotalyNotAVirus.dll
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\obj\Debug\net5.0\ref\TotalyNotAVirus.dll
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\obj\Debug\net5.0\TotalyNotAVirus.pdb
+D:\SoftuniC#Adv22\TotalyNotAVirus\TotalyNotAVirus\obj\Debug\net5.0\TotalyNotAVirus.genruntimeconfig.cache

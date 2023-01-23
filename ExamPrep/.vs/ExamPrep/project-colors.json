@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8ccc7356-561d-47c2-a3bc-1f0db52a08bb": {
+      "ProjectGuid": "8ccc7356-561d-47c2-a3bc-1f0db52a08bb",
+      "DisplayName": "Scheduling",
+      "ColorIndex": 0
+    },
+    "7effa66a-5b26-4b50-8bd2-14b815842c95": {
+      "ProjectGuid": "7effa66a-5b26-4b50-8bd2-14b815842c95",
+      "DisplayName": "Garden",
+      "ColorIndex": 1
+    },
+    "682be401-43a8-4d9e-b117-ed446c805e9e": {
+      "ProjectGuid": "682be401-43a8-4d9e-b117-ed446c805e9e",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    },
+    "1813c7a4-ccde-4438-8dab-c89ead5484e4": {
+      "ProjectGuid": "1813c7a4-ccde-4438-8dab-c89ead5484e4",
+      "DisplayName": "WarmWinter",
+      "ColorIndex": 3
+    },
+    "7b0e73fb-f579-4c7e-bca3-590d2288d1e0": {
+      "ProjectGuid": "7b0e73fb-f579-4c7e-bca3-590d2288d1e0",
+      "DisplayName": "SuperMario",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "70d1d9e2-b6f4-484a-bdd1-8c84a1d6b78d": {
+      "ProjectGuid": "70d1d9e2-b6f4-484a-bdd1-8c84a1d6b78d",
+      "DisplayName": "Warships",
+      "ColorIndex": 5
+    },
+    "b2a9ce67-67e8-4e6c-8725-e8361096c419": {
+      "ProjectGuid": "b2a9ce67-67e8-4e6c-8725-e8361096c419",
+      "DisplayName": "Pawn Wars",
+      "ColorIndex": 6
+    },
+    "12e59853-bac5-4774-8ab7-7a48b7241944": {
+      "ProjectGuid": "12e59853-bac5-4774-8ab7-7a48b7241944",
+      "DisplayName": "Vet Clinic",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

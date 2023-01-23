@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "859f2860-7ca8-47d9-a8b0-f2fef2778074": {
+      "ProjectGuid": "859f2860-7ca8-47d9-a8b0-f2fef2778074",
+      "DisplayName": "Streams Exercise",
+      "ColorIndex": 0
+    },
+    "497469cd-27aa-4433-b988-d32f2a31c924": {
+      "ProjectGuid": "497469cd-27aa-4433-b988-d32f2a31c924",
+      "DisplayName": "Even Lines",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "f3151d39-11aa-45f8-8056-863f88df46f1": {
+      "ProjectGuid": "f3151d39-11aa-45f8-8056-863f88df46f1",
+      "DisplayName": "Even Lines",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

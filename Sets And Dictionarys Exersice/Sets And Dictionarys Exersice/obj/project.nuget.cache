@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+auxxF/xcg1ieXO0bUls1+ISi+72chjCjgBk7XTQbEBGIZygXOKox8aNblQB+5uzb597vVtJFbsP0cjmXpc0Ww==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Sets And Dictionarys Exersice\\Sets And Dictionarys Exersice\\Sets And Dictionarys Exersice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

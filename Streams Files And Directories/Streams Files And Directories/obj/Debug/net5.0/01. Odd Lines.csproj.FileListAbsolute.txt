@@ -1,0 +1,16 @@
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\bin\Debug\net5.0\01. Odd Lines.exe
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\bin\Debug\net5.0\01. Odd Lines.deps.json
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\bin\Debug\net5.0\01. Odd Lines.runtimeconfig.json
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\bin\Debug\net5.0\01. Odd Lines.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\bin\Debug\net5.0\01. Odd Lines.dll
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\bin\Debug\net5.0\ref\01. Odd Lines.dll
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\bin\Debug\net5.0\01. Odd Lines.pdb
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\obj\Debug\net5.0\01. Odd Lines.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\obj\Debug\net5.0\01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\obj\Debug\net5.0\01. Odd Lines.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\obj\Debug\net5.0\01. Odd Lines.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\obj\Debug\net5.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\obj\Debug\net5.0\01. Odd Lines.dll
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\obj\Debug\net5.0\ref\01. Odd Lines.dll
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\obj\Debug\net5.0\01. Odd Lines.pdb
+D:\SoftuniC#Adv22\Streams Files And Directories\Streams Files And Directories\obj\Debug\net5.0\01. Odd Lines.genruntimeconfig.cache

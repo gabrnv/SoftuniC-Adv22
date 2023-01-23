@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUIJYlVHVH2h6C00dCw6JnxSQDfGLDNU/5Sf/DDXEA+oIj6oZOoylRxOCqISNtdmsf7kd+znOqQlNpgCelKjmA==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Sets and Dictionaries Advanced\\03. Largest 3 Numbers\\03. Largest 3 Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

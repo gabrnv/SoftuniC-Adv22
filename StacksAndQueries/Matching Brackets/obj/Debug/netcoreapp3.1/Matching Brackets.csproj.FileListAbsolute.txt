@@ -1,0 +1,13 @@
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.exe
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.deps.json
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.json
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.dll
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\bin\Debug\netcoreapp3.1\Matching Brackets.pdb
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.AssemblyInfo.cs
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.dll
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.pdb
+D:\SoftuniC#Adv22\StacksAndQueries\Matching Brackets\obj\Debug\netcoreapp3.1\Matching Brackets.genruntimeconfig.cache

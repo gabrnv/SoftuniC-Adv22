@@ -1,0 +1,16 @@
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\bin\Debug\net5.0\Car Engine And Tires.exe
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\bin\Debug\net5.0\Car Engine And Tires.deps.json
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\bin\Debug\net5.0\Car Engine And Tires.runtimeconfig.json
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\bin\Debug\net5.0\Car Engine And Tires.runtimeconfig.dev.json
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\bin\Debug\net5.0\Car Engine And Tires.dll
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\bin\Debug\net5.0\ref\Car Engine And Tires.dll
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\bin\Debug\net5.0\Car Engine And Tires.pdb
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\obj\Debug\net5.0\Car Engine And Tires.csproj.AssemblyReference.cache
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\obj\Debug\net5.0\Car Engine And Tires.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\obj\Debug\net5.0\Car Engine And Tires.AssemblyInfoInputs.cache
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\obj\Debug\net5.0\Car Engine And Tires.AssemblyInfo.cs
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\obj\Debug\net5.0\Car Engine And Tires.csproj.CoreCompileInputs.cache
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\obj\Debug\net5.0\Car Engine And Tires.dll
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\obj\Debug\net5.0\ref\Car Engine And Tires.dll
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\obj\Debug\net5.0\Car Engine And Tires.pdb
+D:\SoftuniC#Adv22\Defining Classes\Car Engine And Tires\obj\Debug\net5.0\Car Engine And Tires.genruntimeconfig.cache

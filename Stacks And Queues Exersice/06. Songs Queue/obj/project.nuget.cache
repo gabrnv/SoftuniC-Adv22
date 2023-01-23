@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C/bAwrG8cilc6lZzCEZVlDm8DxLjV0fKphkdUaNZrf75/UHfmFc0QQ5QILpJMcejK7WH5wdTRNigScjbGouZQg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Stacks And Queues Exersice\\06. Songs Queue\\06. Songs Queue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

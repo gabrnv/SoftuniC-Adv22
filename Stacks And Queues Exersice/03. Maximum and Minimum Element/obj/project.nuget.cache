@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q5DHuglFXPIkwS5swUw9UQhFCGZNK0gCBJDDo4KUHFBvaP+O/KJNLXejgccFA3MFhTdQkkp19Oxz7gBUcDrc6A==",
+  "success": true,
+  "projectFilePath": "D:\\SoftuniC#Adv22\\Stacks And Queues Exersice\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabig\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
